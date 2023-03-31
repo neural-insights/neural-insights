@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hvl.no/contentassets/b38bced2a1c14b4eb9bf832026130da0/datavitskap_1280x400.jpg/Large/)
+![MasterHead](https://www.hvl.no/contentassets/b38bced2a1c14b4eb9bf832026130da0/datavitskap_1280x400.jpg/Large/)
 
 <h1 align="center">Hey you! 👋 Welcome to my Profile! I'm Lucas!</h1>
 <h3 align="center">Data Scientist and Neuroscientist. I cordially invite you to seek neural insights with me!</h3>
